@@ -46,7 +46,7 @@ overflow:hidden;
         transform-style:preserve-3d;
         text-shadow:0 10px 15px rgba(0,0,0,0.25);
         transform:translate(-50%,-50%) rotateX(calc(var(--i)*22.5deg)) translateZ(100px);
-        background:linear-gradient(90deg, tranparent, rgba(0,0,0,0.5), transparent);
+        background:linear-gradient(90deg, transparent, rgba(0,0,0,0.5), transparent);
      
     }
 
